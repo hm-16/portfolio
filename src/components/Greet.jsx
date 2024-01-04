@@ -1,5 +1,5 @@
 import {Parallax} from 'react-parallax';
-import Me from '../img/me.JPG.JPG';
+import Me from '../img/me.JPG';
 function Greet(){
     return (
         <div>
